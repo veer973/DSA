@@ -1,0 +1,7 @@
+#What is pip.?
+#Pip is like python package manager. It will install , update and remove libraries(called package) from python package index.
+
+#what is python package index.?
+#it is official online repository of python packages. It is central place where python developers publish libraries so anyone can install it.
+
+# Soo our python interpreter converts our source code in byte code(.pyc) and then python virtual machine excutes our bytecode line by line.
